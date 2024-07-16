@@ -28,4 +28,8 @@ cd git-prefix-man-page
 sudo sh install.sh
 ```
 
-これで、commit.7 manページをインストールし、man commitコマンドで利用できるようになります。
+これで、commit.7 manページをインストールし、コマンドを利用できるようになります。
+以下のコマンドを入力すると、manページにアクセスできます。
+```
+man commit 
+```
